@@ -1,6 +1,7 @@
 #-*- coding:utf-8 -*-
 
 import unittest
+import run_once
 
 class Test(unittest.TestCase):
     def test_run_once(self):
